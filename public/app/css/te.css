@@ -1,0 +1,21 @@
+input[switch]+label {
+    width: 34px;
+    height: 18px;
+    font-size: 14px;
+}
+
+input[switch]+label:after {
+    left: 5px;
+    height: 10px;
+    width: 10px;
+    top: 4px;
+    background-color: #ffffff;
+}
+
+input[switch]:checked+label:after {
+    left: 20px;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}

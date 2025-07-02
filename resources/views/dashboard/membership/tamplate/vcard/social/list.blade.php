@@ -1,0 +1,1 @@
+<div class="d-flex gap-2 justify-content-center mt-3" style="font-size: 10px;" data-te-vcard-social hidden></div>
