@@ -1,6 +1,6 @@
 # Digital Membership Card System (Laravel)
 
-A web-based **Digital Membership Card System** built using **Laravel**, designed to manage users, vendors, and customers with digital membership cards.
+A web-based **Digital Membership Card System** built using **Laravel**, designed to manage users/vendors, and customers with digital membership cards.
 
 ## 🚀 Features
 
