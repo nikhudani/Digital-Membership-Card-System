@@ -47,3 +47,7 @@ A web-based **Digital Membership Card System** built using **Laravel**, designed
 - Password: Abcd1234
 - Role: User
 - Access: Manage own information and limited system features
+
+👤 **Customer Account**
+- Admin need to create the digital membership for customer
+- Access: view their information in the digital card.
