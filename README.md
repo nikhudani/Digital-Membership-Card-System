@@ -37,13 +37,13 @@ A web-based **Digital Membership Card System** built using **Laravel**, designed
 
 ## 🔐 Default Access (Seeded Accounts)
 **Admin Account**
-Email: admin@email.com
-Password: 123
-Role: Admin
-Access: Full access to the system (manage users/vendors, customers, and system data)
+- Email: admin@email.com
+- Password: 123
+- Role: Admin
+- Access: Full access to the system (manage users/vendors, customers, and system data)
 
 👤 **User Account**
-Email: user@email.com
-Password: Abcd1234
-Role: User
-Access: Manage own information and limited system features
+- Email: user@email.com
+- Password: Abcd1234
+- Role: User
+- Access: Manage own information and limited system features
