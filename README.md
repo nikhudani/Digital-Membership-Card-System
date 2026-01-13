@@ -2,8 +2,6 @@
 
 A web-based **Digital Membership Card System** built using **Laravel**, designed to manage users, vendors, and customers with digital membership cards.
 
----
-
 ## 🚀 Features
 
 ### 👨‍💼 Admin
@@ -19,8 +17,6 @@ A web-based **Digital Membership Card System** built using **Laravel**, designed
 - Manage digital membership cards
 - View membership information digitally
 
----
-
 ## 🛠️ Tech Stack
 
 - **Backend:** Laravel
@@ -28,13 +24,13 @@ A web-based **Digital Membership Card System** built using **Laravel**, designed
 - **Database:** MySQL (phpMyAdmin or similar)
 - **Package Manager:** Composer, NPM
 
----
-
-## 📦 Installation & Setup
-
-Follow the steps below to run the project locally:
-
-### 1️⃣ Clone the Repository
-```bash
-git clone <your-repository-url>
-cd <project-folder-name>
+## How to run the project?
+- Clone the repository
+- Create `.env` file, based on `.env.example` file
+- Run `composer install`
+- Run `npm install`
+- Run `npm run dev`
+- Create new database in phpMyAdmin
+- Run `php artisan migrate`
+- Run `php artisan db:seed`
+- Serve the project through a web server
